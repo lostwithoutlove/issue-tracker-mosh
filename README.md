@@ -35,3 +35,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ##Terminal Code
 npx create-next-app@13.4.19
+npm run dev
+npm i react-icons@4.11.0
