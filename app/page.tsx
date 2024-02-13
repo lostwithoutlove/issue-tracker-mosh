@@ -1,5 +1,13 @@
 import Image from "next/image";
+import React from "react";
+import { Button } from "@radix-ui/themes";
 
 export default function Home() {
-  return <main>Hello World</main>;
+  return (
+    <main>
+      <div>
+        <Button>New Issue</Button>
+      </div>
+    </main>
+  );
 }

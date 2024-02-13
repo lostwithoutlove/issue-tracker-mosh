@@ -37,3 +37,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 npx create-next-app@13.4.19
 npm run dev
 npm i react-icons@4.11.0
+npm i classnames@2.3.2
+npx prisma init
+npx prisma format
+npx prisma migrate dev
+npm i zod@3.22.2
+npm install @radix-ui/themes
