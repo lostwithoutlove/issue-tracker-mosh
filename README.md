@@ -43,3 +43,4 @@ npx prisma format
 npx prisma migrate dev
 npm i zod@3.22.2
 npm install @radix-ui/themes
+npm install --save react-simplemde-editor easymde
